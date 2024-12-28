@@ -1,6 +1,6 @@
 [![Contest](https://img.shields.io/badge/contest-Pawpularity-brightgreen?logo=kaggle
 )](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
-[![notebook](https://img.shields.io/badge/-Notebook-lightblue?logo=kaggle
+[![notebook](https://img.shields.io/badge/Notebook-white?logo=kaggle
 )](https://www.kaggle.com/code/snehitchunarkar/ensembleset-svr-for-pawpularityscore)
 
 # Task Description
@@ -31,7 +31,7 @@ A list of models used in each set is shown below.
 
 # Note
 >## Execution
->Use the kaggle notebook for execution: [![notebook](https://img.shields.io/badge/-Notebook-lightblue?logo=kaggle
+>Use the kaggle notebook for execution: [![notebook](https://img.shields.io/badge/Notebook-white?logo=kaggle
 )](https://www.kaggle.com/code/snehitchunarkar/ensembleset-svr-for-pawpularityscore) \
 >Select the ```Copy & Edit``` option; it'll create a copy of the code with the necessary input files (which are not added to GitHub).
 
