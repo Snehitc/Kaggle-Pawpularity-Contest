@@ -40,3 +40,8 @@ A list of models used in each set is shown below.
 
 >## Best Score
 >![Score](Images/Pawpularity5_V180.PNG)
+
+# Reference
+[![Refer](https://img.shields.io/badge/Reference-Notebook-white?logo=kaggle
+)](https://www.kaggle.com/code/titericz/imagenet-embeddings-rapids-svr-finetuned-models) \
+The above notebook by ```Giba``` on Kaggle is helpful for this work.
