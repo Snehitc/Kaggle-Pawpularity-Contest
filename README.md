@@ -21,7 +21,7 @@ A list of models used in each set is shown below.
 >[![cuML](https://img.shields.io/badge/cuML-purple?logo=Rapids
 )](https://docs.rapids.ai/api/cuml/stable/api/) does the SVR calculation faster (using GPU accelerators). Note that while experimenting, it only worked with the ```Tesla T4``` GPU.
 >If ```cuML``` doesn't work, then use [![sklearn](https://img.shields.io/badge/sklearn-white?logo=scikit%20learn
-)](https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVR.html) to compute SVR.
+)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html) to compute SVR.
 
 >## scipy.optimize
 >To find the optimized combination of the ensemble set, a ```minimize``` package from the ```optimize``` library of ```scipy``` is used.\
